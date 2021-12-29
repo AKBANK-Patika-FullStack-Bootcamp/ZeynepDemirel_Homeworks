@@ -89,7 +89,7 @@ HTTP request methodları kullanarak CRUD işlemleri yapan bir WebApi tasarladım
             "tokenId": 3,
             "tokenName": "ROUTINE MAINTENANCE",
             "dateOfConsruction": "2019-12-28T00:00:00",
-            "price": 2000
+            "price": 2200
         }
     ]
 }
