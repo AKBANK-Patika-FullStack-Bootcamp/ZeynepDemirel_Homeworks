@@ -129,3 +129,13 @@ HTTP request methodları kullanarak CRUD işlemleri yapan bir WebApi tasarladım
     "list": null
 }
 ```
+
+## Kullanılan Teknolojiler
+- Visual Studio 2022
+Kurulum için [tıklayınız](https://visualstudio.microsoft.com/tr/vs/)
+
+- Postman
+Kurulum için [tıklayınız](https://www.postman.com/downloads/)
+
+- .NetCore 6
+
