@@ -6,6 +6,7 @@ namespace NFTBaazar.Controllers
     [Route("[controller]")]
     public class NFTBaazarController : ControllerBase
     {
+        //list of NFTs
         private static List<NFTtoken> tokens = new List<NFTtoken>()
         {
             new NFTtoken
@@ -36,7 +37,7 @@ namespace NFTBaazar.Controllers
         [HttpGet]
         public List<NFTtoken> GetTokens()
         {
-            var tokensList = tokens.OrderBy(t => t.tokenId).ToList();
+            var tokensList = tokens.OrderBy(t => t.tokenId).ToList();   //sort non-fungible tokens according to id 
             return tokensList;
         }
 
@@ -53,14 +54,13 @@ namespace NFTBaazar.Controllers
             Result _result = new Result();
 
             //Is there new token in list?
-            bool tokenCheck = tokens.Select(t => t.tokenId == newToken.tokenId || t.tokenName == newToken.tokenName).FirstOrDefault();
+            bool tokenCheck = tokens.Select(t => t.tokenId == newToken.tokenId || t.tokenName == newToken.tokenName).FirstOrDefault(); //If there is no same id or same name in list, add new NFT
 
             if (tokenCheck == false)
             {
-                //there isn't token in list
                 tokens.Add(newToken);
                 _result.status = 1;
-                _result.message = "Ýnsert new token in list";
+                _result.message = "Insert new token in list";
             }
             else
             {
@@ -73,8 +73,8 @@ namespace NFTBaazar.Controllers
         public Result UpdateToken(NFTtoken updatedToken)
         {
             Result _result = new Result();
-
-            var token = tokens.Find(t=> t.tokenId==updatedToken.tokenId);
+            
+            var token = tokens.Find(t=> t.tokenId==updatedToken.tokenId);   //If desired token_id is found from list, update it
 
             if (token == null)
             {
@@ -88,6 +88,7 @@ namespace NFTBaazar.Controllers
                 token.tokenName = updatedToken.tokenName != default ? updatedToken.tokenName : token.tokenName;
                 token.price = updatedToken.price != default ? updatedToken.price : token.price;
                 token.dateOfConsruction = updatedToken.dateOfConsruction != default ? updatedToken.dateOfConsruction : token.dateOfConsruction;
+                
                 _result.status = 1;
                 _result.message = "Updated successfully.";
                 _result.list = tokens.ToList();
@@ -99,12 +100,13 @@ namespace NFTBaazar.Controllers
         {
             Result _result = new Result();
 
-            var token = tokens.SingleOrDefault(t=> t.tokenId == id);
+            var token = tokens.SingleOrDefault(t=> t.tokenId == id);    //find given id in list
 
             if(token == null)
             {
+                //There is no match for the given id
                 _result.status = 0;
-                _result.message = "Deleted wrong";
+                _result.message = "Delete failed";
             }
             else
             {
