@@ -60,7 +60,7 @@ namespace NFTBaazar.Controllers
                 //there isn't token in list
                 tokens.Add(newToken);
                 _result.status = 1;
-                _result.message = "›nsert new token in list";
+                _result.message = "√ùnsert new token in list";
             }
             else
             {
@@ -83,6 +83,7 @@ namespace NFTBaazar.Controllers
             }
             else
             {
+                //update token features
                 token.tokenId = updatedToken.tokenId != default ? updatedToken.tokenId : token.tokenId;
                 token.tokenName = updatedToken.tokenName != default ? updatedToken.tokenName : token.tokenName;
                 token.price = updatedToken.price != default ? updatedToken.price : token.price;
