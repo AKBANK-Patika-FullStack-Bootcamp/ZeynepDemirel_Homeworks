@@ -1,0 +1,3 @@
+
+NFT with 1 was fetched from the list.	Time: 02:12:38
+All NFTs that are in list fetched sorted by their ids.	Time: 02:12:41

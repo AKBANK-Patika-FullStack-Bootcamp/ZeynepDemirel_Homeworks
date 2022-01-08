@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NFTBaazar", "NFTBaazar.csproj", "{2F07B645-0ECB-4266-81A6-A9FDF55E2A30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "..\DAL\DAL.csproj", "{3608BC79-7A70-45E5-94F8-FE2B7CA13E78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "..\Entities\Entities.csproj", "{26499652-E9DB-44FA-A6A5-5F75E8866F4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F07B645-0ECB-4266-81A6-A9FDF55E2A30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F07B645-0ECB-4266-81A6-A9FDF55E2A30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F07B645-0ECB-4266-81A6-A9FDF55E2A30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F07B645-0ECB-4266-81A6-A9FDF55E2A30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3608BC79-7A70-45E5-94F8-FE2B7CA13E78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3608BC79-7A70-45E5-94F8-FE2B7CA13E78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3608BC79-7A70-45E5-94F8-FE2B7CA13E78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3608BC79-7A70-45E5-94F8-FE2B7CA13E78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26499652-E9DB-44FA-A6A5-5F75E8866F4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26499652-E9DB-44FA-A6A5-5F75E8866F4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26499652-E9DB-44FA-A6A5-5F75E8866F4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26499652-E9DB-44FA-A6A5-5F75E8866F4A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {055322F8-769D-4505-92A1-F98A8639736A}
+	EndGlobalSection
+EndGlobal
