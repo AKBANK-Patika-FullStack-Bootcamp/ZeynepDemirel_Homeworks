@@ -24,4 +24,3 @@
 
     }
 }
-//belirtilen kaynak dosyalar üzerinde okuma/yazma/atlama gibi operasyonları yapmamıza yardımcı olan bir sınıftır. Bu sınıf sayesinde senkron ve asenkron olarak okuma/yazma operasyonlarını gerçekleştirebiliriz
