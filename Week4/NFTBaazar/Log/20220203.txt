@@ -1,0 +1,127 @@
+All NFTs that are in list fetched sorted by their ids.	Time: 00:03:01
+All NFTs that are in list fetched sorted by their ids.	Time: 00:07:37
+All NFTs that are in list fetched sorted by their ids.	Time: 00:08:07
+Error: An error occurred while saving the entity changes. See the inner exception for details.	Time: 02:15:09
+Don't insert new token because there is it	Time: 02:15:09
+Error: An error occurred while saving the entity changes. See the inner exception for details.	Time: 02:16:03
+Don't insert new token because there is it	Time: 02:16:03
+Error: An error occurred while saving the entity changes. See the inner exception for details.	Time: 02:19:03
+Don't insert new token because there is it	Time: 02:19:03
+Error: An error occurred while saving the entity changes. See the inner exception for details.	Time: 02:20:00
+Don't insert new token because there is it	Time: 02:20:00
+Error: An error occurred while saving the entity changes. See the inner exception for details.	Time: 02:21:38
+Don't insert new token because there is it	Time: 02:21:38
+Error: An error occurred while saving the entity changes. See the inner exception for details.	Time: 02:22:34
+Don't insert new token because there is it	Time: 02:22:34
+Error: An error occurred while saving the entity changes. See the inner exception for details.	Time: 02:22:40
+Don't insert new token because there is it	Time: 02:22:40
+Error: An error occurred while saving the entity changes. See the inner exception for details.	Time: 02:23:32
+Don't insert new token because there is it	Time: 02:23:32
+Error: An error occurred while saving the entity changes. See the inner exception for details.	Time: 02:24:34
+Don't insert new token because there is it	Time: 02:24:34
+Error: An error occurred while saving the entity changes. See the inner exception for details.	Time: 02:25:08
+Don't insert new token because there is it	Time: 02:25:08
+Error: An error occurred while saving the entity changes. See the inner exception for details.	Time: 02:28:17
+Don't insert new token	Time: 02:28:17
+Insert new token in list	Time: 02:29:20
+All NFTs that are in list fetched sorted by their ids.	Time: 02:29:43
+NFT is already exist.	Time: 02:30:05
+NFT is already exist.	Time: 02:30:15
+NFT is already exist.	Time: 02:30:23
+All NFTs that are in list fetched sorted by their ids.	Time: 14:48:08
+NFT is already exist.	Time: 14:48:26
+Deleted successfully	Time: 15:20:07
+Error: An error occurred while saving the entity changes. See the inner exception for details.	Time: 15:20:17
+Don't insert new token	Time: 15:20:17
+Error: An error occurred while saving the entity changes. See the inner exception for details.	Time: 15:20:41
+Don't insert new token	Time: 15:20:41
+All NFTs that are in list fetched sorted by their ids.	Time: 15:20:48
+Error: An error occurred while saving the entity changes. See the inner exception for details.	Time: 15:21:52
+Don't insert new token	Time: 15:21:52
+Error: An error occurred while saving the entity changes. See the inner exception for details.	Time: 15:21:59
+Don't insert new token	Time: 15:21:59
+Error: An error occurred while saving the entity changes. See the inner exception for details.	Time: 15:22:05
+Don't insert new token	Time: 15:22:05
+Error: An error occurred while saving the entity changes. See the inner exception for details.	Time: 15:23:29
+Don't insert new token	Time: 15:23:29
+Error: An error occurred while saving the entity changes. See the inner exception for details.	Time: 15:23:37
+Don't insert new token	Time: 15:23:37
+Error: An error occurred while saving the entity changes. See the inner exception for details.	Time: 15:23:42
+Don't insert new token	Time: 15:23:42
+Error: An error occurred while saving the entity changes. See the inner exception for details.	Time: 15:23:50
+Don't insert new token	Time: 15:23:50
+Error: An error occurred while saving the entity changes. See the inner exception for details.	Time: 15:24:38
+Don't insert new token	Time: 15:24:38
+Error: An error occurred while saving the entity changes. See the inner exception for details.	Time: 15:25:15
+Don't insert new token	Time: 15:25:15
+Error: An error occurred while saving the entity changes. See the inner exception for details.	Time: 15:25:38
+Don't insert new token	Time: 15:25:38
+Error: An error occurred while saving the entity changes. See the inner exception for details.	Time: 15:29:08
+Don't insert new token	Time: 15:29:08
+Error: An error occurred while saving the entity changes. See the inner exception for details.	Time: 15:29:10
+Don't insert new token	Time: 15:29:10
+Error: An error occurred while saving the entity changes. See the inner exception for details.	Time: 15:29:15
+Don't insert new token	Time: 15:29:15
+Error: An error occurred while saving the entity changes. See the inner exception for details.	Time: 15:29:22
+Don't insert new token	Time: 15:29:22
+NFT is already exist.	Time: 15:29:42
+NFT is already exist.	Time: 15:29:51
+Error: An error occurred while saving the entity changes. See the inner exception for details.	Time: 15:30:06
+Don't insert new token	Time: 15:30:06
+Error: An error occurred while saving the entity changes. See the inner exception for details.	Time: 15:31:35
+Don't insert new token	Time: 15:31:35
+Error: An error occurred while saving the entity changes. See the inner exception for details.	Time: 15:31:47
+Don't insert new token	Time: 15:31:47
+Error: An error occurred while saving the entity changes. See the inner exception for details.	Time: 15:31:53
+Don't insert new token	Time: 15:31:53
+Error: An error occurred while saving the entity changes. See the inner exception for details.	Time: 15:31:59
+Don't insert new token	Time: 15:31:59
+Error: An error occurred while saving the entity changes. See the inner exception for details.	Time: 15:32:05
+Don't insert new token	Time: 15:32:05
+All NFTs that are in list fetched sorted by their ids.	Time: 15:32:13
+NFT with 5 was fetched from the list.	Time: 15:32:25
+NFT with 5 was fetched from the list.	Time: 15:33:35
+Error: An error occurred while saving the entity changes. See the inner exception for details.	Time: 15:33:41
+Don't insert new token	Time: 15:33:41
+Error: An error occurred while saving the entity changes. See the inner exception for details.	Time: 15:34:44
+Don't insert new token	Time: 15:34:44
+Error: An error occurred while saving the entity changes. See the inner exception for details.	Time: 15:34:50
+Don't insert new token	Time: 15:34:50
+Error: An error occurred while saving the entity changes. See the inner exception for details.	Time: 15:37:47
+Don't insert new token	Time: 15:37:47
+Error: An error occurred while saving the entity changes. See the inner exception for details.	Time: 15:38:35
+Don't insert new token	Time: 15:38:43
+Insert new token in list	Time: 15:39:55
+NFT is already exist.	Time: 15:40:01
+All NFTs that are in list fetched sorted by their ids.	Time: 15:40:24
+NFT is already exist.	Time: 15:40:42
+All NFTs that are in list fetched sorted by their ids.	Time: 15:40:50
+Error: An error occurred while saving the entity changes. See the inner exception for details.	Time: 16:03:10
+Updated successfully.	Time: 16:03:10
+Not found this token	Time: 16:05:31
+Error: An error occurred while saving the entity changes. See the inner exception for details.	Time: 16:09:34
+Don't insert new token	Time: 16:09:34
+Error: An error occurred while saving the entity changes. See the inner exception for details.	Time: 16:10:49
+Don't insert new token	Time: 16:10:49
+Insert new token in list	Time: 16:11:20
+Not found this token	Time: 16:12:32
+Error: An error occurred while saving the entity changes. See the inner exception for details.	Time: 16:13:06
+Updated successfully.	Time: 16:13:06
+All NFTs that are in list fetched sorted by their ids.	Time: 16:17:05
+Not found this token	Time: 16:17:22
+Error: An error occurred while saving the entity changes. See the inner exception for details.	Time: 16:28:24
+Error: An error occurred while saving the entity changes. See the inner exception for details.	Time: 16:29:03
+Error: An error occurred while saving the entity changes. See the inner exception for details.	Time: 16:29:25
+Insert new NFT in database	Time: 22:10:07
+Delete NFT in database	Time: 22:11:25
+Error: An error occurred while saving the entity changes. See the inner exception for details.	Time: 22:11:26
+Not found this token	Time: 22:11:56
+Insert new NFT in database	Time: 22:12:21
+Delete NFT in database	Time: 22:12:47
+Insert new NFT in database	Time: 22:12:47
+Not found this token	Time: 22:13:17
+All NFTs that are in list fetched sorted by their ids.	Time: 22:16:47
+Delete NFT in database	Time: 22:18:05
+Insert new NFT in database	Time: 22:18:05
+Delete NFT in database	Time: 22:20:10
+Insert new NFT in database	Time: 22:20:10

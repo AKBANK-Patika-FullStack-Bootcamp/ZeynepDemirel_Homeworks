@@ -1,0 +1,11 @@
+C:\Users\LENOVO\source\repos\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Users\LENOVO\source\repos\DAL\bin\Debug\net6.0\DAL.dll
+C:\Users\LENOVO\source\repos\DAL\bin\Debug\net6.0\ref\DAL.dll
+C:\Users\LENOVO\source\repos\DAL\bin\Debug\net6.0\DAL.pdb
+C:\Users\LENOVO\source\repos\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\DAL\obj\Debug\net6.0\DAL.dll
+C:\Users\LENOVO\source\repos\DAL\obj\Debug\net6.0\ref\DAL.dll
+C:\Users\LENOVO\source\repos\DAL\obj\Debug\net6.0\DAL.pdb
